@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [CASP](https://github.com/gmukherjee/papers/casp.pdf)
 
-<a href="/casp.pdf">CASP</a>
+<a href="https://github.com/gmukherjee/papers/casp.pdf">CASP</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
